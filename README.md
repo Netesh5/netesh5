@@ -19,7 +19,7 @@
 <a href="HTML"><img src="https://img.icons8.com/color/50/000000/html-5--v1.png"></a>
 <a href="CSS"><img src="https://img.icons8.com/color/50/000000/css3.png"/></a>
 <a href="Javascript"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"></a>  
-<a href="Unity"><img src="<img src="https://img.icons8.com/ios-filled/50/ffffff/unity.png"/>"></a>
+<a href="Unity"><img src="https://img.icons8.com/ios-filled/50/ffffff/unity.png"></a>
 <a href="Augmented Reality"><img src="https://www.clipartmax.com/png/small/432-4322447_while-location-based-is-another-known-trigger-its-ar-kit-logo-transparent.png" width="50px" height="50px"></a>
 <a href="Vuforia"><img src="https://www.nicepng.com/png/full/651-6510730_about-glitchr-studio.png" width="50px" height="50px"></a>
 </p>
