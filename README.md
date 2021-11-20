@@ -12,7 +12,6 @@
 
 ## 🚀 Languages and Tools:
 <p align="left">
-    
 <a href="Dart"><img src="https://img.icons8.com/color/50/000000/dart.png"></a>
 <a href="Flutter"><img src="https://img.icons8.com/color/50/000000/flutter.png"></a>
 <a href="C++"><img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"></a>
