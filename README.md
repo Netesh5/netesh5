@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on CSIT App
 - 🌱 I’m currently learning Mobile and web development
-- 🔭 Interested in Software Development,AR Technology,Blockchain and Astronomy
+- 🔭 Interested in Software Development, AR Technology, Blockchain and Astronomy
 -  📫 How to reach me: netesh.paudel@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=netesh5&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=netesh5&layout=compact&theme=dark)](https://github.com/netesh5/github-readme-stats)
