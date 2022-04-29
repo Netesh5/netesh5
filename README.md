@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nitesh</h1>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on CSIT App
+- 🔭 I’m currently working on ML App
 - 🌱 I’m currently learning Mobile development
 - 🔭 Interested in Software Development, AR Technology, Blockchain and Astronomy, Astrophotography
 -  📫 How to reach me: netesh.paudel@gmail.com
