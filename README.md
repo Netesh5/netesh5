@@ -7,7 +7,7 @@
 - 🔭 Interested in Software Development, ML and Astronomy, Astrophotography
 -  📫 How to reach me: netesh.paudel@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=netesh5&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesh5&layout=compact&theme=dark)](https://github.com/Netesh5/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netesh5&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesh5&layout=compact&theme=dark)](https://github.com/Netesh5/github-readme-stats)
 
 
 ## 🚀 Languages and Tools:
