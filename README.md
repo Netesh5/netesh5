@@ -7,8 +7,8 @@
 - 🔭 Interested in Software Development, ML and Astronomy
 -  📫 How to reach me: netesh.paudel@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netesh5&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=Netesh5&layout=compact&theme=dark)](https://github.com/Netesh5/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netesh5&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesh5&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Netesh5/github-readme-stats))
 
 ## 🚀 Languages and Tools:
 <p align="left">
@@ -27,7 +27,7 @@
 <!-- Stat-->
 <p align="center">
     <a href="https://github.com/netesh5/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nitesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=netesh5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nitesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Netesh5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
