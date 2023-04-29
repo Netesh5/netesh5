@@ -4,7 +4,7 @@
 ## 🙋‍♂️ About Me
 - 🔭 I’m currently working on ML App
 - 🌱 I’m currently learning Mobile development and ML
-- 🔭 Interested in Software Development, ML and Astronomy, Astrophotography
+- 🔭 Interested in Software Development, ML and Astronomy
 -  📫 How to reach me: netesh.paudel@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netesh5&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=Netesh5&layout=compact&theme=dark)](https://github.com/Netesh5/github-readme-stats)
