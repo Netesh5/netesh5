@@ -1,54 +1,84 @@
-<h1 align="center"><img  src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" width="40%" height="auto"></h1>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nitesh</h1>
+<h1 align="center">Hi 👋, I'm Nitesh Paudel</h1>
+<h3 align="center">Flutter • Software Development • Machine Learning</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Flutter+Developer;Building+Scalable+Apps;Machine+Learning+Enthusiast;Lifelong+Learner" />
+</p>
+
+---
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on ML App
-- 🌱 I’m currently learning Mobile development and ML
-- 🔭 Interested in Software Development, ML and Astronomy
--  📫 How to reach me: netesh.paudel@gmail.com
+- 🔭 Currently working on **ML-powered mobile applications**
+- 🌱 Learning **Backend & Machine Learning**
+- 💡 Interested in **Software Development, ML & Astronomy**
+- 📫 Reach me at **netesh.paudel@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netesh5&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Netesh5&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Netesh5/github-readme-stats))
+---
 
-## 🚀 Languages and Tools:
-<p align="left">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+## 📊 GitHub Stats
 
-</p>
-
-<!-- Stat-->
 <p align="center">
-    <a href="https://github.com/netesh5/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nitesh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Netesh5&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=netesh5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netesh5&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-## Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/netesh-paudel/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/netesh_paudel"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/netesh_paudel/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
- <a href="https://www.facebook.com/nitesh.paudel.5"><img src="https://img.icons8.com/office/48/000000/facebook-new.png"></a>
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=netesh5&theme=tokyonight&hide_border=true" />
 </p>
 
-##  Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=netesh5">
-</a>
-<a href="https://github.com/netesh5?tab=followers"><img src="https://img.shields.io/github/followers/netesh5?label=Followers&style=social" alt="GitHub Badge"></a>
-<!--
-**netesh5/netesh5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+---
+## 📈 Contribution Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=netesh5&theme=tokyo-night&hide_border=true" />
+</p>
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Netesh5&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+
+### 📱 Frameworks & Tools
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
+
+### 🤖 ML / Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Seaborn](https://img.shields.io/badge/Seaborn-0C4B33?style=for-the-badge)
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/netesh-paudel/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://twitter.com/netesh_paudel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/></a>
+  <a href="https://www.instagram.com/netesh_paudel/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/></a>
+  <a href="https://www.facebook.com/nitesh.paudel.5"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Netesh5&label=Profile%20Views&color=blue&style=flat" />
+</p>
